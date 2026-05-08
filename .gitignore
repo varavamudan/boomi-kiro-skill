@@ -1,0 +1,16 @@
+# Credentials
+.env
+.env.*
+
+# Kiro settings (user-specific)
+.kiro/settings/
+
+# Working files (ephemeral, per-project)
+active-development/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
